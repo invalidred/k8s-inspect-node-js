@@ -1,6 +1,7 @@
 # k8s-inspect-node-js
-Primer on how to test or profile code running in any environment (staging, production et al)
+Primer on how to test or profile code running in any k8s environment (staging, production et al)
 
+The benefit of this approach is to quickly test issues in staging or production narrowing down problem areas on hard to locally reproduce bugs or performance problems.
 
 
 1. List all pods
